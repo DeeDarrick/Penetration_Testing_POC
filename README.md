@@ -916,6 +916,7 @@
 - [用友U8+ U8KCSN Service 未授权数据库连接串注入及SQL注入漏洞](https://mrxn.net/jswz/U8-U8KCSN-Service-sqli-rce.html)
 - [用友U8+ EIS SyncService 未授权任意文件上传命令执行漏洞](https://mrxn.net/jswz/U8-EIS-SyncService-upload-rce.html)
 - [用友U8+ EIS ConfigService 未授权敏感配置信息泄露漏洞](https://mrxn.net/jswz/U8-EIS-ConfigService-data-leak.html)
+- [用友U8+ OCAPI Update 未授权任意文件写命令执行漏洞](https://mrxn.net/jswz/U8-OCAPI-Update-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
